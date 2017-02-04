@@ -1,0 +1,5 @@
+# Ignore token file
+token.mat
+
+# Ignore libs folder
+/machine-learning-ex1/ex1/lib/
